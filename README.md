@@ -1,4 +1,4 @@
-## Books API
+## Books REST API
 ***MVC REST API** for Book database. It supports **CRUD** operations (HTTP Get, Post, Put, Patch, Delete) on Book objects. Book objects contain their title, author, genre and publisher data.*
 
 ## Technologies/Techniques Used
